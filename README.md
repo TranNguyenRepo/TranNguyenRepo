@@ -1,7 +1,6 @@
 # Tran Nguyen
 -----
 
-# PROFESSIONAL SUMMARY
 👋 Hi, I’m Tran Nguyen.
 
 💼 I'm a Data Analyst based in the United States, working with business intelligence, reporting automation, and analytics solutions.
